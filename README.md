@@ -4,9 +4,13 @@ Steps followed to Deploy:
 Created a repository and committing the files, I’ve just went to repo settings -> pages -> sources and in sources I have selected the branch to be main and save. This gave me the deployed site by git.
 
 Commands used to make commits to my git:
+
 ~ $ git remote add origin git@github.com:PendyalaLasya/PendyalaLasya.github.io
+
 ~ $ git add .
+
 ~ $ git commit -m “Initial commit”
+
 ~ $ git push  
 
 Instructions to run the code:
