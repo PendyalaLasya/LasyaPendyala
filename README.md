@@ -15,5 +15,7 @@ Commands used to make commits to my git:
 
 Instructions to run the code:
 Any outside user can directly pull the repo or can also download .zip. If .zip is downloaded the user can extract the files and add to any code editors to edit or can just open .html file on the browser to run the code.
+
 Deployment site: https://pendyalalasya.github.io/ (Give a look into my site over here!)
+
 My Git Repository: https://github.com/PendyalaLasya/PendyalaLasya.github.io
