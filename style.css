@@ -19,7 +19,7 @@ footer {
   background-color: black;
   color: white;
   text-align: center;
-  padding: 80px;
+  padding: 40px;
 }
 
 nav {
@@ -57,6 +57,7 @@ p {
 .projecttext {
   font-size: 15px;
   font-weight: 300;
+  padding: 0 180px;
   color: #000;
 }
 
@@ -96,9 +97,9 @@ h3 {
   color: #808080;
 }
 
-.socials {
+/* .socials {
   padding-bottom: 200px;
-}
+} */
 
 .social {
   margin: 20px;
@@ -110,21 +111,21 @@ h3 {
   justify-content: space-around;
   text-align: center;
   align-items: center;
-  padding: 80px;
+  padding: 40px;
 }
 
 .project-section {
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: 80px;
+  padding: 40px;
 }
 
-.picture {
+/* .picture {
   width: 300px;
   border-radius: 150px;
   margin-left: 80px;
-}
+} */
 
 .picture-container {
   display: flex;
@@ -148,6 +149,12 @@ h3 {
   .project-container {
     display: flex;
     flex-wrap: wrap;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  p {
+    font-size: 14px;
   }
 }
 
@@ -205,6 +212,17 @@ a {
     display: flex;
     flex-direction: column-reverse;
     background-color: #2b2c38;
+  }
+
+  .projecttext {
+    padding: 0;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  .project-section,
+  .experience-section {
+    padding: 60px 0px;
   }
 }
 
